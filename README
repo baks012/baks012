@@ -1,13 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Sory%20Bakayoko&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=D%C3%A9veloppeur%20Web%20%7C%20%C3%89tudiant%20en%20informatique&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Sory%20Bakayoko&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=D%C3%A9veloppeur%20Web%20%7C%20%C3%89tudiant%20en%20informatique&descAlignY=58&descSize=18" width="100%" />
 
 # 👋 Salut, moi c'est **Sory**
 
 ### 💻 Développeur Web • Étudiant en informatique • Créateur de projets
 
-<a href="https://github.com/baks012"><img src="https://img.shields.io/badge/GitHub-baks012-181717?style=for-the-badge&logo=github" /></a>
-<a href="mailto:sorybakayoko012@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/baks012">
+<img src="https://img.shields.io/badge/GitHub-baks012-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+<a href="mailto:sorybakayoko012@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
@@ -29,7 +33,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,php,python,c,mysql,postgres,mongodb,git,github,vscode,npm,vercel&perline=9" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,php,python,c,mysql,postgres,mongodb,git,github,vscode,npm,vercel&perline=9" alt="Stack technique" />
 
 </div>
 
@@ -40,7 +44,7 @@
 <div align="center">
 
 <a href="https://github.com/baks012/Mon-Portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=baks012&repo=Mon-Portfolio&theme=transparent&hide_border=true&description_lines_count=2" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=baks012&repo=Mon-Portfolio&theme=transparent&hide_border=true&description_lines_count=2" alt="Mon-Portfolio" />
 </a>
 
 </div>
@@ -59,12 +63,13 @@ Portfolio personnel de développeur web & mobile avec une interface responsive, 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=baks012&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=transparent" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baks012&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=baks012&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=transparent" alt="Statistiques GitHub" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baks012&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Langages les plus utilisés" />
 
-<br><br>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=baks012&hide_border=true&theme=transparent" />
+<img src="https://streak-stats.demolab.com?user=baks012&hide_border=true&theme=transparent" alt="GitHub Streak" />
 
 </div>
 
@@ -74,11 +79,11 @@ Portfolio personnel de développeur web & mobile avec une interface responsive, 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=baks012&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=baks012&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophées GitHub" />
 
-<br><br>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=baks012&hide_border=true&theme=github-compact&area=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=baks012&hide_border=true&theme=github-compact&area=true" width="95%" alt="Graphique d'activité GitHub" />
 
 </div>
 
@@ -90,7 +95,7 @@ Portfolio personnel de développeur web & mobile avec une interface responsive, 
 
 <div align="center">
 
-<img src="./metrics.svg" alt="Statistiques GitHub de Sory Bakayoko" width="95%" />
+<img src="https://github.com/baks012/baks012/raw/output/metrics.svg" alt="Statistiques GitHub de Sory Bakayoko" width="95%" />
 
 </div>
 
@@ -109,7 +114,7 @@ Portfolio personnel de développeur web & mobile avec une interface responsive, 
 ## 🌱 Actuellement
 
 | Domaine | Focus |
-|---|---|
+|:---|:---|
 | 🌐 Web | Front-end & back-end |
 | ⚛️ Frameworks | React & technologies modernes |
 | 🧠 Programmation | Algorithmes & logique |
@@ -124,7 +129,7 @@ Portfolio personnel de développeur web & mobile avec une interface responsive, 
 Fondamentaux          ████████████████████  ✓
 Développement Web     ██████████████████░░  ↗
 JavaScript            ████████████████░░░░  ↗
-Back-end               █████████████░░░░░░░  ↗
+Back-end              █████████████░░░░░░░  ↗
 Frameworks modernes   ███████████░░░░░░░░░  🌱
 Projets personnels    ███████████████░░░░░  🚀
 ```
@@ -135,8 +140,12 @@ Projets personnels    ███████████████░░░░�
 
 <div align="center">
 
-<a href="https://github.com/baks012"><img src="https://img.shields.io/badge/GitHub-baks012-181717?style=for-the-badge&logo=github" /></a>
-<a href="mailto:sorybakayoko012@gmail.com"><img src="https://img.shields.io/badge/Email-sorybakayoko012%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/baks012">
+<img src="https://img.shields.io/badge/GitHub-baks012-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+<a href="mailto:sorybakayoko012@gmail.com">
+<img src="https://img.shields.io/badge/Email-sorybakayoko012%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
@@ -148,6 +157,6 @@ Projets personnels    ███████████████░░░░�
 
 **Explore mes projets • Suis mon évolution • Construisons ensemble 🚀**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%" />
 
 </div>
