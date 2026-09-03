@@ -15,34 +15,27 @@
 
 ## 🧑‍💻 À propos de moi
 
-🎓 **Étudiant en informatique**, je construis progressivement mon parcours dans le développement logiciel et web.
+🎓 **Étudiant en informatique**, je construis mon parcours dans le développement logiciel et web.
 
-🚀 J'aime transformer une idée en projet concret, apprendre de nouvelles technologies et améliorer la qualité de mon code.
+🚀 J'aime transformer une idée en projet concret, apprendre de nouvelles technologies et améliorer progressivement la qualité de mon code.
 
 🎯 **Objectif :** devenir un développeur polyvalent capable de concevoir des applications modernes, accessibles et performantes.
 
-> 💡 *Chaque projet est une occasion d'apprendre quelque chose de nouveau.*
+> 💡 *Apprendre. Construire. Améliorer.*
 
 ---
 
-## 🛠️ Compétences & outils
+## 🛠️ Stack technique
 
 <div align="center">
 
-### 🌐 Web
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,php&perline=8" />
-
-### 💻 Programmation & données
-<img src="https://skillicons.dev/icons?i=python,c,mysql,postgres,mongodb&perline=8" />
-
-### ⚙️ Outils
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,php,python,c,mysql,postgres,mongodb,git,github,vscode,npm,vercel&perline=9" />
 
 </div>
 
 ---
 
-## 🚀 Projet à découvrir
+## 🚀 Projet mis en avant
 
 <div align="center">
 
@@ -54,18 +47,20 @@
 
 ### 🌟 Mon Portfolio
 
-Portfolio web personnel présentant mes compétences, projets et services, avec une interface responsive, des animations et une expérience bilingue FR/EN. Le projet utilise **HTML, CSS et JavaScript** et est pensé pour évoluer avec mon parcours. 
+Portfolio personnel de développeur web & mobile avec une interface responsive, des animations modernes et une expérience bilingue FR/EN.
 
-🔗 **[Voir le projet sur GitHub](https://github.com/baks012/Mon-Portfolio)**
+**Technologies :** HTML5 • CSS3 • JavaScript • Vercel
+
+🔗 [Découvrir le dépôt](https://github.com/baks012/Mon-Portfolio)
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 GitHub en chiffres
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=baks012&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baks012&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=baks012&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baks012&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
 
 <br><br>
 
@@ -75,19 +70,13 @@ Portfolio web personnel présentant mes compétences, projets et services, avec 
 
 ---
 
-## 🏆 Mes trophées GitHub
+## 🏆 Activité & réalisations
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=baks012&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
-</div>
-
----
-
-## 📈 Mon activité
-
-<div align="center">
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=baks012&hide_border=true&theme=github-compact&area=true" width="95%" />
 
@@ -95,7 +84,19 @@ Portfolio web personnel présentant mes compétences, projets et services, avec 
 
 ---
 
-## 🐍 Mes contributions
+## 📈 Tableau de bord GitHub
+
+> Les statistiques ci-dessous sont générées automatiquement chaque jour par GitHub Actions.
+
+<div align="center">
+
+<img src="./metrics.svg" alt="Statistiques GitHub de Sory Bakayoko" width="95%" />
+
+</div>
+
+---
+
+## 🐍 Contributions
 
 <div align="center">
 
@@ -107,23 +108,26 @@ Portfolio web personnel présentant mes compétences, projets et services, avec 
 
 ## 🌱 Actuellement
 
-```text
-📚 Approfondissement du développement web
-⚛️ Découverte et pratique de frameworks modernes
-🧠 Algorithmes & logique de programmation
-🗄️ Bases de données & développement back-end
-🚀 Bonnes pratiques, Git & GitHub
-```
+| Domaine | Focus |
+|---|---|
+| 🌐 Web | Front-end & back-end |
+| ⚛️ Frameworks | React & technologies modernes |
+| 🧠 Programmation | Algorithmes & logique |
+| 🗄️ Données | SQL & bases de données |
+| 🚀 Outils | Git, GitHub & déploiement |
 
 ---
 
-## 💡 Ma philosophie
+## 🗺️ Ma progression
 
-<div align="center">
-
-**Apprendre → Construire → Tester → Améliorer → Partager 🚀**
-
-</div>
+```text
+Fondamentaux          ████████████████████  ✓
+Développement Web     ██████████████████░░  ↗
+JavaScript            ████████████████░░░░  ↗
+Back-end               █████████████░░░░░░░  ↗
+Frameworks modernes   ███████████░░░░░░░░░  🌱
+Projets personnels    ███████████████░░░░░  🚀
+```
 
 ---
 
