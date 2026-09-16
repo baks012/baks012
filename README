@@ -1,113 +1,24 @@
-<div align="center">
+<h1 align="center">Salut 👋 je m'appelle Sory</h1>
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Sory%20Bakayoko&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=D%C3%A9veloppeur%20Web%20Full-Stack%20Junior&descAlignY=58&descSize=18" width="100%" alt="Bannière Sory Bakayoko" />
-
-  <!-- Animated Typing Tagline -->
-  <a href="https://github.com/baks012">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=%C3%89tudiant+en+Informatique;D%C3%A9veloppeur+Web+Full-Stack;Cr%C3%A9ateur+d'applications+modernes;Toujours+en+apprentissage+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-
-  <p align="center">
-    <a href="mailto:sorybakayoko012@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Me%20Contacter-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/baks012">
-      <img src="https://img.shields.io/badge/GitHub-Profil-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
-
-</div>
-
----
-
-### 👨‍💻 À propos de moi
-
-- 🎓 **Formation** : Étudiant en informatique, passionné d'ingénierie logicielle et de développement web & mobile.
-- 💡 **Approche** : Transformer des concepts en applications concrètes, intuitives et performantes.
-- 🎯 **Objectifs** : Concevoir des architectures robustes, maîtriser les standards du web moderne et perfectionner mes compétences en continu.
-- ⚡ **Devise** : *Apprendre. Construire. Innover.*
-
----
-
-### 🛠️ Technologies & Outils
-
-<div align="center">
-
-| Domaine | Technologies |
-| :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" alt="Frontend" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,c&theme=dark" alt="Backend" /> |
-| **Bases de données** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Bases de données" /> |
-| **Outils & Workflow** | <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel&theme=dark" alt="Outils" /> |
-
-</div>
-
----
-
-### 🌟 Projet mis en avant
-
-<div align="center">
-
-<a href="https://github.com/baks012/Mon-Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=baks012&repo=Mon-Portfolio&theme=tokyonight&border_color=2563eb&hide_border=false" alt="Mon Portfolio" />
-</a>
-
-<p>
-  <strong>Portfolio personnel bilingue (FR/EN)</strong> avec animations fluides et interface responsive.<br/>
-  <code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code> • <code>Vercel</code>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Matthieu83600/Matthieu83600/main/developer.svg" width="450" alt="Illustration Développeur" />
 </p>
 
-[🔗 Explorer le projet](https://github.com/baks012/Mon-Portfolio)
+## Développeur Web
 
-</div>
+- 🌍 Je suis basé en **Côte D'ivoire**
+- 💻 Regarder mon [portfolio](https://github.com/baks012/Mon-Portfolio)
+- ✉️ Me contacter : [sorybakayoko012@gmail.com](mailto:sorybakayoko012@gmail.com)
 
----
+### Compétences et outils
 
-### 📊 Statistiques GitHub
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,ts,react,nodejs,express,php,python,c,mysql,postgres,mongodb,vercel,npm&perline=18" alt="Compétences et outils" />
+</p>
 
-<div align="center">
+### Mes Stats GitHub
 
-  <!-- Stats & Langages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=baks012&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="150" alt="Statistiques GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baks012&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="Top Langages" />
-
-  <br/><br/>
-
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=baks012&theme=tokyonight&hide_border=true" alt="Streak GitHub" />
-
-</div>
-
----
-
-### 🐍 Snake Contributions
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/baks012/baks012/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-
-</div>
-
----
-
-### 📬 Restons connectés
-
-<div align="center">
-
-  <p>Une question, une opportunité ou envie d'échanger sur un projet ? N'hésitez pas !</p>
-
-  <a href="mailto:sorybakayoko012@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sorybakayoko012%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/baks012">
-    <img src="https://img.shields.io/badge/GitHub-baks012-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=90&section=footer" width="100%" alt="Footer" />
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=baks012&show_icons=true&hide_border=true&title_color=000000&icon_color=2563eb&text_color=333333" height="150" alt="Statistiques GitHub de Sory" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baks012&layout=compact&hide_border=true&title_color=000000&text_color=333333" height="150" alt="Langues principales" />
+</p>
