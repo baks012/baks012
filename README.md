@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Bannière animée Header -->
+  <!-- Bannière Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Bakayoko%20Sory&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developpeur%20Web%20et%20Logiciel%20%7C%20Titulaire%20du%20BTS%20IDA&descAlignY=58&descSize=17" width="100%" alt="Bannière Sory Bakayoko" />
 
   <!-- Animation d'écriture dynamique -->
@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=2563EB&center=true&vCenter=true&width=550&lines=D%C3%A9veloppeur+Web+%26+Applications;Titulaire+du+BTS+Informatique+(IDA)+%F0%9F%8E%93;Concepteur+de+solutions+num%C3%A9riques+%F0%9F%92%BB;Ouvert+aux+opportunit%C3%A9s+professionnelles+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
-  <!-- Illustration Développeur (CDN officiel GitHub 100% stable) -->
+  <!-- Illustration Développeur -->
   <p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450" alt="Illustration Développeur" />
   </p>
@@ -88,26 +88,13 @@ Développeur passionné par la conception de solutions logicielles et d'applicat
 
 ---
 
-### 📊 Activité & Statistiques GitHub
+### 📊 Statistiques de Contributions
 
 <div align="center">
 
-  <!-- Graphique d'activité interactif (Ultra stable) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baks012&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Graphique d'activité de Sory" />
+  <!-- Série de contributions (100% fonctionnel) -->
+  <img src="https://streak-stats.demolab.com?user=baks012&theme=tokyonight&hide_border=true" alt="Série de contributions GitHub" />
 
-  <br/><br/>
-
-  <!-- Série de contributions continues -->
-  <img src="https://streak-stats.demolab.com?user=baks012&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-
-</div>
-
----
-
-### 🐍 Historique des Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/baks012/baks012/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
 ---
