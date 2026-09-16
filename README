@@ -2,16 +2,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Sory%20Bakayoko&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=D%C3%A9veloppeur%20Web%20%7C%20%C3%89tudiant%20en%20informatique&descAlignY=58&descSize=18" width="100%" />
 
-# 👋 Salut, moi c'est **Sory**
+# 👋 Salut, moi c'est **Sory Bakayoko**
 
-### 💻 Développeur Web • Étudiant en informatique • Créateur de projets
+### 💻 Développeur Web Full-Stack Junior • Étudiant en Informatique • Créateur de Projets
 
-<a href="https://github.com/baks012">
-<img src="https://img.shields.io/badge/GitHub-baks012-181717?style=for-the-badge&logo=github" alt="GitHub" />
-</a>
-<a href="mailto:sorybakayoko012@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<p align="center">
+  <a href="https://github.com/baks012">
+    <img src="https://img.shields.io/badge/GitHub-baks012-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="mailto:sorybakayoko012@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 </div>
 
@@ -19,21 +21,21 @@
 
 ## 🧑‍💻 À propos de moi
 
-🎓 **Étudiant en informatique**, je construis mon parcours dans le développement logiciel et web.
+🎓 **Étudiant en informatique**, je me passionne pour le développement logiciel et la conception d'applications web et mobiles.
 
-🚀 J'aime transformer une idée en projet concret, apprendre de nouvelles technologies et améliorer progressivement la qualité de mon code.
+🚀 J'aime transformer des idées en solutions concrètes, apprendre de nouvelles technologies et optimiser continuellement la qualité de mon code.
 
-🎯 **Objectif :** devenir un développeur polyvalent capable de concevoir des applications modernes, accessibles et performantes.
+🎯 **Objectif :** Concevoir des applications modernes, performantes, accessibles et intuitives.
 
-> 💡 *Apprendre. Construire. Améliorer.*
+> 💡 *Apprendre. Construire. Innover.*
 
 ---
 
-## 🛠️ Stack technique
+## 🛠️ Stack technique & Outils
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,php,python,c,mysql,postgres,mongodb,git,github,vscode,npm,vercel&perline=9" alt="Stack technique" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,c,mysql,postgres,mongodb,react,nodejs,express,git,github,vscode,npm,vercel&perline=9" alt="Stack technique" />
 
 </div>
 
@@ -44,38 +46,43 @@
 <div align="center">
 
 <a href="https://github.com/baks012/Mon-Portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=baks012&repo=Mon-Portfolio&theme=transparent&hide_border=true&description_lines_count=2" alt="Mon-Portfolio" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=baks012&repo=Mon-Portfolio&theme=transparent&hide_border=true&description_lines_count=2" alt="Mon-Portfolio" />
 </a>
 
 </div>
 
 ### 🌟 Mon Portfolio
+Portfolio personnel mettant en avant mes compétences et projets avec une interface responsive, des animations soignées et une expérience bilingue (FR/EN).
 
-Portfolio personnel de développeur web & mobile avec une interface responsive, des animations modernes et une expérience bilingue FR/EN.
-
-**Technologies :** HTML5 • CSS3 • JavaScript • Vercel
-
-🔗 [Découvrir le dépôt](https://github.com/baks012/Mon-Portfolio)
+* **Technologies :** HTML5 • CSS3 • JavaScript • Vercel
+* 🔗 **Lien :** [Découvrir le dépôt](https://github.com/baks012/Mon-Portfolio)
 
 ---
 
-## 📊 GitHub en chiffres
+## 📊 Statistiques GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=baks012&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=transparent" alt="Statistiques GitHub" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baks012&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Langages les plus utilisés" />
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=baks012&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=transparent" alt="Statistiques GitHub" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baks012&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Langages principaux" />
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=baks012&hide_border=true&theme=transparent" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=baks012&hide_border=true&theme=transparent" alt="Série de contributions" />
 
 </div>
 
 ---
 
-## 🏆 Activité & réalisations
+## 🏆 Activité & Trophées
 
 <div align="center">
 
@@ -83,68 +90,42 @@ Portfolio personnel de développeur web & mobile avec une interface responsive, 
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=baks012&hide_border=true&theme=github-compact&area=true" width="95%" alt="Graphique d'activité GitHub" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=baks012&hide_border=true&theme=github-compact&area=true" width="100%" alt="Graphique d'activité" />
 
 </div>
 
 ---
 
-## 📈 Tableau de bord GitHub
-
-> Les statistiques ci-dessous sont générées automatiquement chaque jour par GitHub Actions.
+## 🐍 Graphique des Contributions
 
 <div align="center">
 
-<img src="https://github.com/baks012/baks012/raw/output/metrics.svg" alt="Statistiques GitHub de Sory Bakayoko" width="95%" />
+<img src="https://raw.githubusercontent.com/baks012/baks012/output/github-contribution-grid-snake.svg" alt="Snake Contribution Animation" width="100%" />
 
 </div>
 
 ---
 
-## 🐍 Contributions
+## 🌱 Actuellement en apprentissage
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/baks012/baks012/output/github-contribution-grid-snake.svg" alt="Animation des contributions GitHub" width="95%" />
-
-</div>
-
----
-
-## 🌱 Actuellement
-
-| Domaine | Focus |
+| Domaine | Focus principal |
 |:---|:---|
-| 🌐 Web | Front-end & back-end |
-| ⚛️ Frameworks | React & technologies modernes |
-| 🧠 Programmation | Algorithmes & logique |
-| 🗄️ Données | SQL & bases de données |
-| 🚀 Outils | Git, GitHub & déploiement |
+| 🌐 **Développement Web** | Front-end moderne & architectures Back-end |
+| ⚛️ **Frameworks** | Écosystème React & solutions modernes |
+| 🗄️ **Bases de Données** | Modélisation (Merise), SQL & NoSQL |
+| 🚀 **DevOps & Outils** | Versioning avec Git/GitHub & Déploiement continu |
 
 ---
 
-## 🗺️ Ma progression
-
-```text
-Fondamentaux          ████████████████████  ✓
-Développement Web     ██████████████████░░  ↗
-JavaScript            ████████████████░░░░  ↗
-Back-end              █████████████░░░░░░░  ↗
-Frameworks modernes   ███████████░░░░░░░░░  🌱
-Projets personnels    ███████████████░░░░░  🚀
-```
-
----
-
-## 🤝 Connectons-nous
+## 🤝 Me contacter
 
 <div align="center">
 
 <a href="https://github.com/baks012">
-<img src="https://img.shields.io/badge/GitHub-baks012-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-baks012-181717?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
 <a href="mailto:sorybakayoko012@gmail.com">
-<img src="https://img.shields.io/badge/Email-sorybakayoko012%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-sorybakayoko012%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
@@ -153,9 +134,9 @@ Projets personnels    ███████████████░░░░�
 
 <div align="center">
 
-### ⭐ Merci d'être passé sur mon profil !
+### ⭐ Merci de votre visite !
 
-**Explore mes projets • Suis mon évolution • Construisons ensemble 🚀**
+**N'hésitez pas à explorer mes projets et à repasser régulièrement ! 🚀**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%" />
 
