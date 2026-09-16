@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Bannière Header réparée -->
+  <!-- Bannière animée Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Bakayoko%20Sory&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developpeur%20Web%20et%20Logiciel%20%7C%20Titulaire%20du%20BTS%20IDA&descAlignY=58&descSize=17" width="100%" alt="Bannière Sory Bakayoko" />
 
   <!-- Animation d'écriture dynamique -->
@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=2563EB&center=true&vCenter=true&width=550&lines=D%C3%A9veloppeur+Web+%26+Applications;Titulaire+du+BTS+Informatique+(IDA)+%F0%9F%8E%93;Concepteur+de+solutions+num%C3%A9riques+%F0%9F%92%BB;Ouvert+aux+opportunit%C3%A9s+professionnelles+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
-  <!-- Illustration Développeur (CDN GitHub 100% fonctionnel) -->
+  <!-- Illustration Développeur (CDN officiel GitHub 100% stable) -->
   <p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450" alt="Illustration Développeur" />
   </p>
@@ -37,7 +37,7 @@
 
 Développeur passionné par la conception de solutions logicielles et d'applications web modernes. **Titulaire d'un BTS en Informatique Développement d'Applications (IDA)**, j'allie rigueur technique, modélisation de bases de données et sensibilité ergonomique (UI/UX) pour créer des outils numériques fiables et intuitifs.
 
-- 💻 **Spécialités :** Développement Web (Front & Back), Modélisation de données, Programmation logicielle.
+- 💻 **Spécialités :** Développement Web (Front & Back), Modélisation de bases de données, Programmation logicielle.
 - 🎓 **Diplôme :** Brevet de Technicien Supérieur (BTS) — *Informatique Développement d'Applications (IDA)*.
 - 📍 **Localisation :** Abidjan, Côte d'Ivoire 🇨🇮 *(Disponible sur site, hybride ou télétravail)*.
 - 🚀 **Disponibilité :** Ouvert aux opportunités professionnelles (CDI, CDD, Freelance, Projets d'envergure).
@@ -82,7 +82,7 @@ Développeur passionné par la conception de solutions logicielles et d'applicat
 
 ### 📂 Projets Phares
 
-- 🌟 **[Mon-Portfolio](https://github.com/baks012/Mon-Portfolio)** : Mon portfolio professionnel bilingue (FR/EN) conçu avec des animations soignées et une interface 100 % responsive (*HTML5, CSS3, JavaScript*).
+- 🌟 **[Mon-Portfolio](https://github.com/baks012/Mon-Portfolio)** : Portfolio professionnel bilingue (FR/EN) conçu avec des animations soignées et une interface 100 % responsive (*HTML5, CSS3, JavaScript*).
 - 🌐 **Applications Web Vitrines & Métiers** : Conception de plateformes web interactives pour des services de restauration, la gestion de plannings et l'automatisation de tâches (*HTML, CSS, JS, PHP/MySQL*).
 - 📊 **Système de Gestion du Personnel** : Modélisation et déploiement d'une application d'administration RH avec gestion des effectifs, formulaires de saisie et états d'impression (*Microsoft Access & SQL*).
 
@@ -92,20 +92,29 @@ Développeur passionné par la conception de solutions logicielles et d'applicat
 
 <div align="center">
 
-  <!-- Graphique d'activité moderne (Ultra stable, ne plante jamais) -->
+  <!-- Graphique d'activité interactif (Ultra stable) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=baks012&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Graphique d'activité de Sory" />
 
   <br/><br/>
 
   <!-- Série de contributions continues -->
-  <img src="https://streak-stats.demolab.com?user=baks012&theme=tokyonight&hide_border=true" alt="Série de contributions" />
+  <img src="https://streak-stats.demolab.com?user=baks012&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
 </div>
+
+---
+
+### 🐍 Historique des Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/baks012/baks012/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+</div>
+
 ---
 
 ### 📬 Me Contacter
 
-N'hésitez pas à me contacter pour toute opportunité professionnelle ou collaboration :
+N'hésitez pas à me contacter pour toute opportunité professionnelle ou collaboration technique :
 
 <p align="left">
   <a href="https://linkedin.com/in/sory-bakayoko-1092523b9" target="_blank">
