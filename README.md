@@ -88,21 +88,19 @@ Développeur passionné par la conception de solutions logicielles et d'applicat
 
 ---
 
-### 📊 Statistiques GitHub
+### 📊 Activité & Statistiques GitHub
 
 <div align="center">
 
-  <!-- Cartes de statistiques optimisées -->
-  <img src="https://github-readme-stats.vercel.app/api?username=baks012&show_icons=true&theme=tokyonight&hide_border=true&title_color=2563eb&icon_color=2563eb" height="150" alt="Statistiques GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baks012&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&title_color=2563eb" height="150" alt="Langages principaux" />
+  <!-- Graphique d'activité moderne (Ultra stable, ne plante jamais) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baks012&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Graphique d'activité de Sory" />
 
   <br/><br/>
 
-  <!-- Série de contributions -->
-  <img src="https://streak-stats.demolab.com?user=baks012&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <!-- Série de contributions continues -->
+  <img src="https://streak-stats.demolab.com?user=baks012&theme=tokyonight&hide_border=true" alt="Série de contributions" />
 
 </div>
-
 ---
 
 ### 📬 Me Contacter
